@@ -44,7 +44,7 @@ lidar:
 
     camera:
       - frame_id: "camera"
-        trigger_angle: 200
+        trigger_angle: 218
 
 
 
